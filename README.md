@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Jatin
 
-<!--
-**jatin-rajputt/jatin-rajputt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student at SBSSU Gurdaspur  
+🛡️ Cybersecurity Trainee | 🌐 Networking (CCNA) | 🖥️ Windows Server | 🐧 Kali Linux
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Cybersecurity: Kali Linux, Wireshark, Nmap, Burp Suite  
+- Networking: IP Addressing, Subnetting, DNS, DHCP, VPN  
+- Virtualization: GNS3, VirtualBox  
+- OS: Windows Server, Linux  
+- Tools: Cisco Packet Tracer, Metasploit (Basic)
+
+---
+
+## 📂 Projects
+- 🔐 [Offline VPN Simulation](https://github.com/jatin-rajputt/offlinevpn)  
+- 💻 Site-to-Site VPN (Coming soon)
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jatin-thakur2126/)
+- 📧 jt7805803@gmail.com
+

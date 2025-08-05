@@ -15,8 +15,8 @@
 ---
 
 ## 📂 Projects
-- 🔐 [Offline VPN Simulation](https://github.com/jatin-rajputt/offlinevpn)  
-- 💻 Site-to-Site VPN (Coming soon)
+- 🔐 [Offline VPN Simulation](comming soon)  
+- 💻 [Site-to-Site VPN ](https://github.com/jatin-rajputt/site-to-site-vpn)
 
 ---
 
